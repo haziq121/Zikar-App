@@ -1,17 +1,48 @@
-# zikar_app
+# Zikar & Tasbeeh Tracker App
 
-A new Flutter project.
+A Flutter application developed for the BanoQabil Flutter Assignment #2.
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+The Zikar & Tasbeeh Tracker app helps users keep track of their daily Zikar and Tasbeeh counts. Users can create multiple Zikar sessions, set target counts, and monitor their progress easily.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+* Add new Zikar/Tasbeeh
+* Set custom target counts
+* Tap counter functionality
+* Circular progress indicator
+* Reset counter option
+* Goal reached message
+* Dashboard with all Tasbeeh sessions
+* Dynamic color change on target completion
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screens
+
+### Dashboard Screen
+
+* Shows all saved Zikar sessions
+* Displays current and target count
+* Add New button for creating Tasbeeh sessions
+
+### Counter Screen
+
+* Large count display
+* Circular progress indicator
+* Tap to Count button
+* Reset button
+* Goal reached notification
+
+## Technologies Used
+
+* Flutter
+* Dart
+* Stateful Widgets
+* ListView.builder
+* Navigation and Data Passing
+
+
+
+## Developed By
+
+Haziq Ul Islam Abbasi
